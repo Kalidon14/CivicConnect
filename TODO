@@ -1,10 +1,10 @@
 Project Setup:
-  ☐ Create repo + add team members
-  ☐ Set up folder structure (frontend, backend, uploads)
-  ☐ Initialize Vue project (npm init vue)
+  ✔ Create repo + add team members @done(25-12-12 10:53)
+  ✔ Set up folder structure (frontend, backend, uploads) @done(25-12-12 10:53)
+  ✔ Initialize Vue project (npm init vue) @done(25-12-12 10:53)
   ☐ Install dependencies (Vue, Axios, Tailwind, Leaflet, Vue Router, Pinia)
-  ☐ Install UI helpers (Vue Toastification, SweetAlert2, Heroicons)
-  ☐ Install form validation (VeeValidate or Yup)
+  ✔ Install UI helpers (Vue Toastification, SweetAlert2, Heroicons) @done(25-12-12 10:53)
+  ✔ Install form validation (VeeValidate or Yup) @done(25-12-12 10:53)
   ☐ Set up ESLint + Prettier formatting
   ☐ Set up XAMPP + MySQL database
   ☐ Create database.sql with tables
